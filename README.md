@@ -5,4 +5,4 @@ Created app template using `npx create-react-app app-name`.
 
 Firebase settings need to be populated in */src/components/firebase.js*
 
-Currenly deploed version can be accessed at: [here](https://project-manager-dev-b2c9d.web.app/)
+Currenly deployed version can be accessed at: [here](https://project-manager-dev-b2c9d.web.app/)
