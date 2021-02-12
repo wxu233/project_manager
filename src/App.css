@@ -1,0 +1,25 @@
+.icon {
+  margin-left: 2rem;
+  height: 100px;
+  width: 100px;
+}
+
+.card {
+  margin-top: 30px;
+}
+
+.faPencilAlt:hover {
+  color: blue;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.dropdown-toggle.noCaret:after {
+  display: none;
+}
